@@ -1,0 +1,2 @@
+【使用方法】
+将本文件夹添加到MATLAB路径，在MATLAB的当前文件夹区中，点击Inductor_Calculator_APP,右键选择运行，即可使用电感计算器。
